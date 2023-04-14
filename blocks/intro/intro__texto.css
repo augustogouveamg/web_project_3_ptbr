@@ -1,0 +1,9 @@
+.intro__texto{
+    max-width: 720px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+    padding-top: 32px;
+}

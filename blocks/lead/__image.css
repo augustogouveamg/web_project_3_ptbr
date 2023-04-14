@@ -1,6 +1,5 @@
 .lead__image{
     max-width: 984px;
-    height: 615px;
     padding-top: 64px; 
     filter: grayscale(100%);
 }
