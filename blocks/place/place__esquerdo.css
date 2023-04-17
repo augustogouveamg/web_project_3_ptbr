@@ -1,0 +1,4 @@
+.place__esquerdo{
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,4 @@
+.place__direito{
+    display: flex;
+    flex-direction: column;
+}

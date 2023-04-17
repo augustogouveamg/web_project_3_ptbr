@@ -1,0 +1,13 @@
+.place__descricao{
+    max-width: 484px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 163%;
+    color: #FFFFFF;
+    padding-bottom: 25px;
+}
+
+p:nth-of-type(3) {
+    padding-bottom: 0;
+  }
