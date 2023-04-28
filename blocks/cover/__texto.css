@@ -1,0 +1,10 @@
+.cover__texto{
+   max-width: 656px;
+   max-height: 254px;
+   position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding: 32px 0 32px 0 ;
+}
