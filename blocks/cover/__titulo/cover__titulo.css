@@ -1,9 +1,15 @@
 .cover__titulo{
-    width: 656px;
+    max-width: 656px;
     font-style: normal;
     font-weight: 900;
     font-size: 72px;
     line-height: 1;
     text-align: center;
     color: #FFFDFD;
+}
+
+@media screen and (max-width:500px){
+    .cover__titulo{
+        font-size:32px;
+    }
 }

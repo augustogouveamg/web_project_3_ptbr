@@ -6,4 +6,9 @@
     height: 100%;
     background-color: #2A2C2F;
     opacity: 0.3;   
+    transition: opacity 0.5s ease;
+}
+
+.cover__overlay:hover{
+    opacity: 0.8 ; 
 }

@@ -1,0 +1,23 @@
+.place__button{
+    grid-area: botao;
+    max-width: 355px; 
+    height: 48px;
+    background: #0278FE;
+    border-radius: 4px;   
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 1;
+    color: #FFFFFF;
+    transition: background 0.5s ease ;
+}
+
+.place__button:hover{
+    background: #0063D2;
+}
+@media screen and (max-width:500px) {
+    .place__button{
+        max-width: 100%; 
+        margin-top: 22px; 
+    }
+}

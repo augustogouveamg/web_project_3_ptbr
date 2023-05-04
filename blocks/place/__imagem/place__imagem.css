@@ -1,6 +1,6 @@
 .place__imagem{
+    grid-area:imagem;
     max-width: 484px;
-    width:90%;
-
+    width:100%;
     padding: 48px 0 48px 0;
 }

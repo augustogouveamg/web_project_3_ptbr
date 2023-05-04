@@ -5,3 +5,11 @@
     border-radius: 4px;
     color: white;
 }
+
+.cover__botao:hover{
+    background: #0063D2;
+}
+
+.cover__botao:hover ~ .cover__overlay{
+    opacity: 0.8 ; 
+}

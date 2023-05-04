@@ -2,7 +2,13 @@
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
-    line-height: 1,2;
+    line-height: 1.2;
     text-align: center;
     color: #FFFFFF;
+}
+
+@media screen and (max-width:500px){
+    .cover__subtitulo{
+        font-size: 14px;
+    }
 }

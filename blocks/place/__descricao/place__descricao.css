@@ -1,13 +1,16 @@
 .place__descricao{
+    grid-area: descricao;
+    display: flex;
+    flex-direction: column;
+    gap:5%; 
     max-width: 484px;
-    width: 95%;
+    width: 100%;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
     line-height: 1.6;
     color: #FFFFFF;
-    padding-bottom: 25px;
-    margin-right: 5%;
+
 }
 
 p:nth-of-type(3) {
