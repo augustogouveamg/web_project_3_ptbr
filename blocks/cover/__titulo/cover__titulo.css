@@ -8,7 +8,13 @@
     color: #FFFDFD;
 }
 
-@media screen and (max-width:500px){
+@media screen and (max-width:777px){
+    .cover__titulo{
+        font-size: 60px;
+    }
+    
+}
+@media screen and (max-width:647px){
     .cover__titulo{
         font-size:32px;
     }
