@@ -11,5 +11,5 @@
 }
 
 .cover__botao:hover ~ .cover__overlay{
-    opacity: 0.8 ; 
+    opacity: 0.8; 
 }
